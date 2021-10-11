@@ -4,3 +4,4 @@ In this assignment I made a portfolio that i will add to as the course goes on a
 https://rileylathan.github.io/portfolio/
 https://github.com/rileylathan/portfolio/settings/pages
 
+./assets/img/screenshot(3).png  -updated screenshot of deployed url
